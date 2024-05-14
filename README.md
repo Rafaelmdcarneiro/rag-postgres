@@ -1,5 +1,4 @@
 # RAG on PostgreSQL
-This project creates a web-based chat application with an API backend that can use OpenAI chat models to answer questions about the items in a PostgreSQL database table.
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](placeholder)
 [![Open in Dev Containers](https://img.shields.io/static/v1?style=for-the-badge&label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](placeholder)
